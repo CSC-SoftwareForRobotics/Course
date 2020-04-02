@@ -19,6 +19,10 @@ After the course, students are able to:
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------| ----------------  |
 |  ➡️       | [Setup](Boot.md)             | 🥾[Engineering Basics](https://github.com/chrisparnin/EngineeringBasics) 🥾
+|  Aug 19  | 
+|  Aug 24  | 
+|  Aug 26  | 
+|  Sept 7  | NO CLASS (Labor Day)
 |  -  | Chaos engineering
 |  -  | Simluation Testing
 |  -  | Publish-Subscribe Architectures
