@@ -21,7 +21,7 @@ After the course, students are able to:
 |  Aug 10  | Introduction  | [Engineering Basics](https://github.com/chrisparnin/EngineeringBasics)  | [Setup](Boot.md)
 |  Aug 12  | Workshop - Engineering Basics | 
 |  Aug 17  | Publish & Subscribe 
-|  Aug 19  | [Workshop - Publish-Subscribe](git@github.com:CSC-SoftwareForRobotics/workshop-ros2-simple-pub-sub.git) | | 
+|  Aug 19  | [Workshop - Publish-Subscribe](https://github.com/CSC-SoftwareForRobotics/workshop-ros2-simple-pub-sub) | | 
 |  Aug 24  | 
 |  Aug 26  | Workshop - Launch Files
 |  Aug 31  | 
