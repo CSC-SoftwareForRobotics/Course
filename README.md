@@ -24,7 +24,7 @@ After the course, students are able to:
 |  Aug 26  | 
 |  Sept 7  | NO CLASS (Labor Day)
 |  -  | Chaos engineering
-|  -  | Simluation Testing
+|  -  | Simulation Testing
 |  -  | Publish-Subscribe Architectures
 |  -  | Student Project Pitches
 | October 8--9| 🍁FALL BREAK 🍁
