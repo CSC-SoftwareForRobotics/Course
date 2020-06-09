@@ -23,7 +23,7 @@ After the course, students are able to:
 |  Aug 17  | Publish & Subscribe 
 |  Aug 19  | [Workshop - Publish-Subscribe](https://github.com/CSC-SoftwareForRobotics/workshop-ros2-simple-pub-sub) | | 
 |  Aug 24  | 
-|  Aug 26  | Workshop - Launch Files
+|  Aug 26  | [Workshop - Turtlesim](https://github.com/CSC-SoftwareForRobotics/workshop-turtlesim)
 |  Aug 31  | 
 |  Sep 2   | Student Project Pitches
 |  Sep 7   |  Workshop - Testing
